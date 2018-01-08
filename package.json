@@ -1,0 +1,15 @@
+{
+  "name": "storyblok-metalsmith-demo",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "handlebars": "^4.0.5",
+    "metalsmith": "^2.1.0",
+    "metalsmith-layouts": "^1.4.1",
+    "metalsmith-markdown": "^0.2.1",
+    "storyblok-node-client": "^1.0.0"
+  }
+}
