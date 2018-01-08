@@ -10,6 +10,7 @@
     "metalsmith": "^2.1.0",
     "metalsmith-layouts": "^1.4.1",
     "metalsmith-markdown": "^0.2.1",
-    "storyblok-node-client": "^1.0.0"
+    "storyblok-node-client": "^1.0.0",
+    "marked": "^0.3.9"
   }
 }
